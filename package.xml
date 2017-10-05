@@ -1,0 +1,17 @@
+<package format="2">
+  <name>fastcdr</name>
+  <version>1.0.6</version>
+  <description>
+eProsima FastCDR library provides two serialization mechanisms. One is the standard CDR serialization mechanism, while the other is a faster implementation of it.
+  </description>
+  <author>Eprosima</author>
+  <maintainer email="ricardogonzalez@eprosima.com">Ricardo González</maintainer>
+  <license>Apache 2.0</license>
+  <url>https://github.com/eProsima/Fast-RTPS</url>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+
+  <buildtool_depend>ament_cmake_ros</buildtool_depend>
+</package>
